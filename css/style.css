@@ -1,0 +1,55 @@
+<style type="text/css">
+        body{
+            background-color: peachpuff
+        }     
+        h1{
+            color: purple;
+            text-decoration: underline
+        }
+            p{
+			font-size: 20pt
+		}
+        h2{
+			color: green;
+			text-decoration: underline
+		}
+        
+        body{
+            background-color: peachpuff;
+        }
+		#para1{
+			color: red 
+		}
+		.bluep{
+			color: blue;
+            font-size: 16pt
+		}
+        h4{
+            font-style: italic
+        }
+		#div1{
+			background-color: palevioletred
+		}
+		#div2{
+			background-color: peachpuff
+		}
+		#div3{
+			position: fixed;
+            top: 0;
+            right: 0;
+            width: 200px;
+            background-color: palegreen;
+            border-style: solid;
+		}
+		#div4{
+			background-color: blueviolet
+		}
+		#div1, #div2, #div4{
+			border: dashed
+        }
+        #div3{
+            border: solid;
+        }
+        img{
+            float:right
+        }
